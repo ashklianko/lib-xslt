@@ -24,6 +24,19 @@ dependencies {
 }
 ----
 
+****
+[CAUTION]
+====
+In order to complete this tutorial, the Enonic development environment must be installed on your computer.
+LINK TO INSTALL ENONIC DEV ENV COMING HERE
+====
+****
+
+[NOTE]
+====
+The other files and folders in the project structure are not relevant for this tutorial.
+====
+
 == Usage
 
 To use this library in your JavaScript code, you first need to require it:
