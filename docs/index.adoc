@@ -13,8 +13,6 @@ This library provides basic XSLT rendering functionality to create pages and par
 [quote, Albert Einstein]
 A person who never made a mistake never tried anything new.
 
-____
-
 image::images/ready-set-code.svg["Ready...Set...Code!", width=100%]
 video::Sr7X9cmOvhw[youtube]
 image::images/kitchen.jpg[]
