@@ -1,7 +1,7 @@
 {
   "versions": [
     {
-      "label": "1.0.x",
+      "label": "1.0.1",
       "checkout": "59777ccf143dfe227a48c75aee6fc3f82572cc0d"
     },
     {
