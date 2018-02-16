@@ -10,7 +10,7 @@ changed!
 
 link:index.html[Link index.html]
 
-image::images/kitchen.jpg[]
+image::imges/kitchen.jpg[]
 image::images/secondary/bedroom.jpg[]
 audio::images/song.mp3[]
 video::images/video.mp4[]

@@ -4,4 +4,4 @@
 More test data
 ****
 
-link:../index.html[Link to root doc index.html]
+link:../inex.html[Link to root doc index.html]
